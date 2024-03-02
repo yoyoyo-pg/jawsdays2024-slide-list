@@ -8,27 +8,19 @@
 
 ### A
 
-【A-1】なぜAWS向けのFrameworkに携わり続けるのか？ ～クラウド時代のOSS活動～  
-
-<https://speakerdeck.com/watany/developing-oss-for-aws>
-
+【A-1】[なぜAWS向けのFrameworkに携わり続けるのか？ ～クラウド時代のOSS活動～](https://speakerdeck.com/watany/developing-oss-for-aws)
 【A-2】ヘプタゴン、2023年AIハンズオン開催の軌跡 〜やっぱり地方コミュニティっていいものですね〜  
-
-【A-3】サービスクォータ、ちゃんと監視してますか？  
-
-<https://speakerdeck.com/iwamot/quota-monitor-for-aws-quickstart>
-
+【A-3】[サービスクォータ、ちゃんと監視してますか？](https://speakerdeck.com/iwamot/quota-monitor-for-aws-quickstart)
 【A-4】人材育成専門企業の内製開発の現場から  
 【A-5】AWSもITもなんも分からんから始まる成長戦略  
 【A-6】AWS認定 Specialityレベルで満点取った時の勉強法  
 【A-7】エンジニアリングの多様性を活かすキャリアデザイン：研究からビジネスへの道  
-【A-8】コネクタベンダーがAWSのゼロETL サービス、ぜんぶ触ってみた！  
+【A-8】[コネクタベンダーがAWSのゼロETL サービス、ぜんぶ触ってみた！](https://speakerdeck.com/cdataj/konekutabendaga-awsnozeroetl-sabisu-zenbuhong-tutemita)
 【A-9】サーバーレスで豊島区の緊急設備トラブルを解決するアプリを作った話  
 【A-10】技術書を書く技術：あなたの知識を世界に届けよう！！  
-【A-11】AWSセンセーション 私とみんなが作ったAWSセキュリティ  
-
-<https://dev.classmethod.jp/articles/jaws-days-2024-aws-sensation/>
-<https://speakerdeck.com/cmusudakeisuke/awssensesiyon-si-tominnakazuo-tutaawssekiyuritei>
+【A-11】[AWSセンセーション 私とみんなが作ったAWSセキュリティ](<https://speakerdeck.com/cmusudakeisuke/awssensesiyon-si-tominnakazuo-tutaawssekiyuritei>
+)
+[「AWSセンセーション 私とみんなが作ったAWSセキュリティ」というタイトルでJAWS DAYS 2024に登壇しました #jawsdays2024 #jawsug #jawsdays2024_a](https://dev.classmethod.jp/articles/jaws-days-2024-aws-sensation/)
 
 ### B
 
@@ -43,13 +35,12 @@
 【B-11】恒例！ソリューションアーキテクト怒涛のLT  
 
 [開発者体験を変えるInfrastructure as Codeの新機能 6選！](https://speakerdeck.com/konokenj/iac-updates-2024-03-jaws-days)
+[AWSのマルチアカウント管理で意外と知られていないOU設計の話](https://speakerdeck.com/pikosan0000/awsnomarutiakauntoguan-li-teyi-wai-tozhi-rareteinaioushe-ji-nohua)
 
 ### C
 
-【C-1】ぼくのかんがえたさいきょうのAWSへのリソースデプロイ  
-
-<https://speakerdeck.com/rrrraaaaa6/boku-no-kangaeta-saikiyou-no>
-<https://speakerdeck.com/rrrraaaaa6/boku-no-kangaeta-saikiyou-no_mentimeter>
+【C-1】[ぼくのかんがえたさいきょうのAWSへのリソースデプロイ](https://speakerdeck.com/rrrraaaaa6/boku-no-kangaeta-saikiyou-no)
+[ぼくのかんがえたさいきょうのAWSへのリソースデプロイ_mentimeter](https://speakerdeck.com/rrrraaaaa6/boku-no-kangaeta-saikiyou-no_mentimeter)
 
 【C-3】AWSセキュリティ運用に頭を悩ませている方必見！ 運用をお任せできる「CloudFastener」あります！  
 【C-4】実録！NRIネットコム技術広報のあゆみ 立志編 ～立ち上げから周回軌道に乗るまで～  
@@ -67,7 +58,7 @@
 【D-5】15分でECS on Fargateのオブザーバビリティは実現できるのか  
 【D-6】クラウド黎明期、いかにしてJAWSは始まったのか ～熱い歴史をコミュニティ史として語り継ぐ  
 【D-9】AWS LLM 開発支援プログラム：開発者から学ぶ、LLM開発の最前線  
-【D-11】予知保全はできるのか？Amazon Monitronによるガス火力発電所の機器監視  
+【D-11】[予知保全はできるのか？Amazon Monitronによるガス火力発電所の機器監視](https://speakerdeck.com/kgx/jaws-days-2024-yu-zhi-bao-quan-hatekirunoka-amazon-monitronniyorukasuhuo-li-fa-dian-suo-noji-qi-jian-shi)
 【D-12】"ザ・内製開発" 喋り尽くしトークライブ  
 
 ### E
