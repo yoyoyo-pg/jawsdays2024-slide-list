@@ -44,7 +44,7 @@
 
 【C-3】AWSセキュリティ運用に頭を悩ませている方必見！ 運用をお任せできる「CloudFastener」あります！  
 【C-4】実録！NRIネットコム技術広報のあゆみ 立志編 ～立ち上げから周回軌道に乗るまで～  
-【C-5】フルAWSのマルチテナントSaaS生成AIアプリ「かぐたん」開発秘話  
+【C-5】[フルAWSのマルチテナントSaaS生成AIアプリ「かぐたん」開発秘話](https://www.docswell.com/s/s3kzk/ZJLMVQ-jawsdays2024_c-5_kagutan)  
 【C-6】次世代への種を蒔こう  
 【C-8】MLOpsの旅:AWS IoTとSageMakerでリアルタイム検出に挑む コンサルタントに聞く！ AWS Security の守り方とセキュリティテストの実例  
 【C-9】あなたのアイディアがコミュニティイベントで採用！？ JAWS PANKRATION 2024 Live Architecting  
