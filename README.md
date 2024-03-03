@@ -13,7 +13,7 @@
 【A-3】[サービスクォータ、ちゃんと監視してますか？](https://speakerdeck.com/iwamot/quota-monitor-for-aws-quickstart)  
 【A-4】人材育成専門企業の内製開発の現場から  
 【A-5】AWSもITもなんも分からんから始まる成長戦略  
-【A-6】AWS認定 Specialityレベルで満点取った時の勉強法  
+【A-6】[AWS認定 Specialityレベルで満点取った時の勉強法](https://speakerdeck.com/makies/awsren-ding-specialtyreberudeman-dian-qu-tutashi-nomian-qiang-fa)  
 【A-7】エンジニアリングの多様性を活かすキャリアデザイン：研究からビジネスへの道  
 【A-8】[コネクタベンダーがAWSのゼロETL サービス、ぜんぶ触ってみた！](https://speakerdeck.com/cdataj/konekutabendaga-awsnozeroetl-sabisu-zenbuhong-tutemita)  
 【A-9】[サーバーレスで豊島区の緊急設備トラブルを解決するアプリを作った話](https://speakerdeck.com/kkb1016/saharesuteli-dao-qu-nojin-ji-she-bei-torahuruwojie-jue-suruahuriwozuo-tutahua)  
