@@ -30,7 +30,7 @@
 【B-5】【MSP認定取得奮闘記】AWS Security HubとAWS Organizationsで最強のセキュリティを設定している話  
 【B-6】地方在住フルリモートワークエンジニアのリアル〜ジモトで"活きる"エンジニアライフ〜  
 【B-7】長岡花火公式アプリについて〜地元新潟県が誇る花火大会のアプリを作りました〜  
-【B-8】クラウドネイティブなデータ連携の最新動向:AWSサービスアップデートで何が変わった？  
+【B-8】[クラウドネイティブなデータ連携の最新動向:AWSサービスアップデートで何が変わった？](https://speakerdeck.com/hayaok3/latest-trends-in-cloud-native-data-integration)  
 【B-9】地方Tech創生全国ツアー 〜池袋Summit 〜  
 【B-11】恒例！ソリューションアーキテクト怒涛のLT  
 
