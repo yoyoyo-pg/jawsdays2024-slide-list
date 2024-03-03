@@ -68,7 +68,7 @@
 【E-5】エンジニアブログ「TechHarmony」注目記事のご紹介  
 【E-6】[生成AIで社内文書検索！ Bedrockの新機能でRAGアプリを簡単に作ってみよう](https://qiita.com/minorun365/items/24dfb0ea3afde6ed0a56)  
 【E-8】Believe In Serverless 〜真のサーバレスを目指して〜  
-【E-9】海外イベントのためのコミュニケーションワークショップ ーPollyは友達ー  
+【E-9】[海外イベントのためのコミュニケーションワークショップ ーPollyは友達ー](https://speakerdeck.com/matshogo/jawsdays2024-e-8-hai-wai-ibentonotamenokomiyunikesiyonwakusiyotupu)  
 【E-11】Serverlessを高速化しよう！試して感じるパフォーマンスチューニング  
 
 #### WS
