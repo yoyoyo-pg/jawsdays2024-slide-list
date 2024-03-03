@@ -41,7 +41,6 @@
 
 【C-1】[ぼくのかんがえたさいきょうのAWSへのリソースデプロイ](https://speakerdeck.com/rrrraaaaa6/boku-no-kangaeta-saikiyou-no)  
 [ぼくのかんがえたさいきょうのAWSへのリソースデプロイ_mentimeter](https://speakerdeck.com/rrrraaaaa6/boku-no-kangaeta-saikiyou-no_mentimeter)  
-
 【C-3】AWSセキュリティ運用に頭を悩ませている方必見！ 運用をお任せできる「CloudFastener」あります！  
 【C-4】実録！NRIネットコム技術広報のあゆみ 立志編 ～立ち上げから周回軌道に乗るまで～  
 【C-5】[フルAWSのマルチテナントSaaS生成AIアプリ「かぐたん」開発秘話](https://www.docswell.com/s/s3kzk/ZJLMVQ-jawsdays2024_c-5_kagutan)  
@@ -52,7 +51,7 @@
 
 ### D
 
-【D-1】チーム対抗提案コンペ 〜仮想RFPに提案してみよう！〜  
+【D-1】[チーム対抗提案コンペ 〜仮想RFPに提案してみよう！〜](https://speakerdeck.com/shinyayamada/ben-fan-timudui-kang-ti-an-konhe-jia-xiang-rfp)  
 【D-3】Amazon EMR でグローバル規模の金融データを扱う分散処理システムを構築した話  
 【D-4】みんなこのセッション聞かないで！ ここだけでしか言えないAWSやらかし大激論  
 【D-5】15分でECS on Fargateのオブザーバビリティは実現できるのか  
