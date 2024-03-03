@@ -16,7 +16,7 @@
 【A-6】AWS認定 Specialityレベルで満点取った時の勉強法  
 【A-7】エンジニアリングの多様性を活かすキャリアデザイン：研究からビジネスへの道  
 【A-8】[コネクタベンダーがAWSのゼロETL サービス、ぜんぶ触ってみた！](https://speakerdeck.com/cdataj/konekutabendaga-awsnozeroetl-sabisu-zenbuhong-tutemita)  
-【A-9】サーバーレスで豊島区の緊急設備トラブルを解決するアプリを作った話  
+【A-9】[サーバーレスで豊島区の緊急設備トラブルを解決するアプリを作った話](https://speakerdeck.com/kkb1016/saharesuteli-dao-qu-nojin-ji-she-bei-torahuruwojie-jue-suruahuriwozuo-tutahua)  
 【A-10】技術書を書く技術：あなたの知識を世界に届けよう！！  
 【A-11】[AWSセンセーション 私とみんなが作ったAWSセキュリティ](<https://speakerdeck.com/cmusudakeisuke/awssensesiyon-si-tominnakazuo-tutaawssekiyuritei>
 )  
@@ -52,7 +52,7 @@
 
 ### D
 
-【D-1】チーム対抗提案コンペ 〜仮想RFPに提案してみよう！  
+【D-1】チーム対抗提案コンペ 〜仮想RFPに提案してみよう！〜  
 【D-3】Amazon EMR でグローバル規模の金融データを扱う分散処理システムを構築した話  
 【D-4】みんなこのセッション聞かないで！ ここだけでしか言えないAWSやらかし大激論  
 【D-5】15分でECS on Fargateのオブザーバビリティは実現できるのか  
@@ -68,7 +68,7 @@
 【E-4】全方位でのAWSコスト管理：最適化、削減、そしてガバナンス  
 【E-5】エンジニアブログ「TechHarmony」注目記事のご紹介  
 【E-6】[生成AIで社内文書検索！ Bedrockの新機能でRAGアプリを簡単に作ってみよう](https://qiita.com/minorun365/items/24dfb0ea3afde6ed0a56)  
-【E-8】Believe In Serverless ~真のサーバレスを目指して~  
+【E-8】Believe In Serverless 〜真のサーバレスを目指して〜  
 【E-9】海外イベントのためのコミュニケーションワークショップ ーPollyは友達ー  
 【E-11】Serverlessを高速化しよう！試して感じるパフォーマンスチューニング  
 
