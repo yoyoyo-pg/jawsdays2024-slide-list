@@ -36,11 +36,14 @@
 
 [開発者体験を変えるInfrastructure as Codeの新機能 6選！](https://speakerdeck.com/konokenj/iac-updates-2024-03-jaws-days)  
 [AWSのマルチアカウント管理で意外と知られていないOU設計の話](https://speakerdeck.com/pikosan0000/awsnomarutiakauntoguan-li-teyi-wai-tozhi-rareteinaioushe-ji-nohua)  
+[短縮 URL サービス4分間クッキング - Amazon CloudFront KeyValueStore, CloudFront Functions, AWS CDK で作成、CloudWatch Logs で簡易アクセス集計 -](https://speakerdeck.com/twingob/duan-suo-url-sabisu-4fen-jian-kutukingu-amazon-cloudfront-keyvaluestore-cloudfront-functions-aws-cdk-dezuo-cheng-cloudwatch-logs-dejian-yi-akusesuji-ji)  
+
 
 ### C
 
 【C-1】[ぼくのかんがえたさいきょうのAWSへのリソースデプロイ](https://speakerdeck.com/rrrraaaaa6/boku-no-kangaeta-saikiyou-no)  
 [ぼくのかんがえたさいきょうのAWSへのリソースデプロイ_mentimeter](https://speakerdeck.com/rrrraaaaa6/boku-no-kangaeta-saikiyou-no_mentimeter)  
+[JAWS DAYS 2024でIaCについていろんな方達と語り合ってきました](https://zenn.dev/rrrraaaaa6/articles/8afc524c478fda)
 【C-3】AWSセキュリティ運用に頭を悩ませている方必見！ 運用をお任せできる「CloudFastener」あります！  
 【C-4】実録！NRIネットコム技術広報のあゆみ 立志編 ～立ち上げから周回軌道に乗るまで～  
 【C-5】[フルAWSのマルチテナントSaaS生成AIアプリ「かぐたん」開発秘話](https://www.docswell.com/s/s3kzk/ZJLMVQ-jawsdays2024_c-5_kagutan)  
@@ -63,6 +66,7 @@
 ### E
 
 【E-1】CIer・SIer集まれ！！ クライアントワークな私たちとAWSの良い関係を考えよう！  
+[#JAWSDAYS2024 E-1 [P] CIer・SIer集まれ！！～クライアントワークな私たちとAWSの良い関係を考えよう！〜でモデレータ登壇したふりかえり](https://note.com/beajourneyman/n/n1ac5fe80b06e)  
 【E-3】ランチにまつわるちょっといい話  
 【E-4】全方位でのAWSコスト管理：最適化、削減、そしてガバナンス  
 【E-5】エンジニアブログ「TechHarmony」注目記事のご紹介  
