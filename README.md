@@ -11,7 +11,7 @@
 【A-1】[なぜAWS向けのFrameworkに携わり続けるのか？ ～クラウド時代のOSS活動～](https://speakerdeck.com/watany/developing-oss-for-aws)  
 【A-2】ヘプタゴン、2023年AIハンズオン開催の軌跡 〜やっぱり地方コミュニティっていいものですね〜  
 【A-3】[サービスクォータ、ちゃんと監視してますか？](https://speakerdeck.com/iwamot/quota-monitor-for-aws-quickstart)  
-【A-4】人材育成専門企業の内製開発の現場から  
+【A-4】[人材育成専門企業の内製開発の現場から](https://www.docswell.com/s/yamamugi/524P64-jawsdays2024-a4-trainocate)  
 【A-5】AWSもITもなんも分からんから始まる成長戦略  
 【A-6】[AWS認定 Specialityレベルで満点取った時の勉強法](https://speakerdeck.com/makies/awsren-ding-specialtyreberudeman-dian-qu-tutashi-nomian-qiang-fa)  
 【A-7】エンジニアリングの多様性を活かすキャリアデザイン：研究からビジネスへの道  
@@ -28,7 +28,7 @@
 【B-3】Japan AWS Jr.Championsまでの道のりとこれから  
 【B-4】国内東西リージョンでウォームスタンバイのDR設計をした話  
 【B-5】【MSP認定取得奮闘記】AWS Security HubとAWS Organizationsで最強のセキュリティを設定している話  
-【B-6】地方在住フルリモートワークエンジニアのリアル〜ジモトで"活きる"エンジニアライフ〜  
+【B-6】[地方在住フルリモートワークエンジニアのリアル〜ジモトで"活きる"エンジニアライフ〜](https://speakerdeck.com/wkm2/di-fang-zai-zhu-hururimotowakuensinianoriaru-simotote-huo-kiru-ensiniaraihu)  
 【B-7】長岡花火公式アプリについて〜地元新潟県が誇る花火大会のアプリを作りました〜  
 【B-8】[クラウドネイティブなデータ連携の最新動向:AWSサービスアップデートで何が変わった？](https://speakerdeck.com/hayaok3/latest-trends-in-cloud-native-data-integration)  
 【B-9】地方Tech創生全国ツアー 〜池袋Summit 〜  
@@ -37,7 +37,6 @@
 [開発者体験を変えるInfrastructure as Codeの新機能 6選！](https://speakerdeck.com/konokenj/iac-updates-2024-03-jaws-days)  
 [AWSのマルチアカウント管理で意外と知られていないOU設計の話](https://speakerdeck.com/pikosan0000/awsnomarutiakauntoguan-li-teyi-wai-tozhi-rareteinaioushe-ji-nohua)  
 [短縮 URL サービス4分間クッキング - Amazon CloudFront KeyValueStore, CloudFront Functions, AWS CDK で作成、CloudWatch Logs で簡易アクセス集計 -](https://speakerdeck.com/twingob/duan-suo-url-sabisu-4fen-jian-kutukingu-amazon-cloudfront-keyvaluestore-cloudfront-functions-aws-cdk-dezuo-cheng-cloudwatch-logs-dejian-yi-akusesuji-ji)  
-
 
 ### C
 
@@ -55,13 +54,16 @@
 ### D
 
 【D-1】[チーム対抗提案コンペ 〜仮想RFPに提案してみよう！〜](https://speakerdeck.com/shinyayamada/ben-fan-timudui-kang-ti-an-konhe-jia-xiang-rfp)  
+[JAWS DAYS 2024 セッション D-1 Team-B 提案資料](https://speakerdeck.com/kazzpapa3/jaws-days-2024-setusiyon-d-1-team-b-ti-an-zi-liao)
 【D-3】Amazon EMR でグローバル規模の金融データを扱う分散処理システムを構築した話  
 【D-4】みんなこのセッション聞かないで！ ここだけでしか言えないAWSやらかし大激論  
 【D-5】15分でECS on Fargateのオブザーバビリティは実現できるのか  
 【D-6】クラウド黎明期、いかにしてJAWSは始まったのか ～熱い歴史をコミュニティ史として語り継ぐ  
+【D-8】[コンサルタントに聞く！ AWS Security の守り方とセキュリティテストの実例](https://speakerdeck.com/shinichirokawano/jaws-days-2024-track-d-supporter-session-how-to-test-aws-environment)  
 【D-9】AWS LLM 開発支援プログラム：開発者から学ぶ、LLM開発の最前線  
 【D-11】[予知保全はできるのか？Amazon Monitronによるガス火力発電所の機器監視](https://speakerdeck.com/kgx/jaws-days-2024-yu-zhi-bao-quan-hatekirunoka-amazon-monitronniyorukasuhuo-li-fa-dian-suo-noji-qi-jian-shi)  
-【D-12】"ザ・内製開発" 喋り尽くしトークライブ  
+[後付けセンサーで発電設備を予知保全、挑戦の軌跡 ― JAWS DAYS 2024 セッションレポート](https://zenn.dev/ma2shita/articles/02b468ebd600ce)
+【D-12】["ザ・内製開発" 喋り尽くしトークライブ](https://www.docswell.com/s/yamamugi/Z8GP32-jawsdays2024-d12-naisei)  
 
 ### E
 
