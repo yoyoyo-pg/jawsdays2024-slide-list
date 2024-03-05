@@ -17,7 +17,8 @@
 【A-7】エンジニアリングの多様性を活かすキャリアデザイン：研究からビジネスへの道  
 【A-8】[コネクタベンダーがAWSのゼロETL サービス、ぜんぶ触ってみた！](https://speakerdeck.com/cdataj/konekutabendaga-awsnozeroetl-sabisu-zenbuhong-tutemita)  
 【A-9】[サーバーレスで豊島区の緊急設備トラブルを解決するアプリを作った話](https://speakerdeck.com/kkb1016/saharesuteli-dao-qu-nojin-ji-she-bei-torahuruwojie-jue-suruahuriwozuo-tutahua)  
-【A-10】技術書を書く技術：あなたの知識を世界に届けよう！！  
+【A-10】[技術書を書く技術：あなたの知識を世界に届けよう！！](https://speakerdeck.com/takuros/ji-shu-shu-woshu-kuji-shu-jaws-days-2024)  
+[『技術書を書く技術』というテーマで、JAWS DAYS 2024に登壇しました](https://tech.nri-net.com/entry/jaws_days_2024)  
 【A-11】[AWSセンセーション 私とみんなが作ったAWSセキュリティ](<https://speakerdeck.com/cmusudakeisuke/awssensesiyon-si-tominnakazuo-tutaawssekiyuritei>
 )  
 [「AWSセンセーション 私とみんなが作ったAWSセキュリティ」というタイトルでJAWS DAYS 2024に登壇しました #jawsdays2024 #jawsug #jawsdays2024_a](https://dev.classmethod.jp/articles/jaws-days-2024-aws-sensation/)
