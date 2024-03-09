@@ -72,6 +72,7 @@
 
 【E-1】[CIer・SIer集まれ！！ クライアントワークな私たちとAWSの良い関係を考えよう！](https://www.docswell.com/s/8916250/538WVM-2024-03-04-190005#p1)  
 [#JAWSDAYS2024 E-1 [P] CIer・SIer集まれ！！～クライアントワークな私たちとAWSの良い関係を考えよう！〜でモデレータ登壇したふりかえり](https://note.com/beajourneyman/n/n1ac5fe80b06e)  
+[#JAWSDAYS2024 E-1 CIer・SIer集まれ！！～クライアントワークな私たちとAWSの良い関係を考えよう！〜セッションオーナー𝕏ポストまとめ](https://togetter.com/li/2327985)  
 【E-3】ランチにまつわるちょっといい話  
 【E-4】全方位でのAWSコスト管理：最適化、削減、そしてガバナンス  
 【E-5】エンジニアブログ「TechHarmony」注目記事のご紹介  
