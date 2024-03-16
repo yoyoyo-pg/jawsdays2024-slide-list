@@ -26,7 +26,7 @@
 ### B
 
 【B-1】JAWS支部 re:Surgence ～リブート支部代表たちによるパネルディスカッション～  
-【B-3】Japan AWS Jr.Championsまでの道のりとこれから  
+【B-3】[Japan AWS Jr.Championsまでの道のりとこれから](https://speakerdeck.com/shawnmuramatsu/japan-aws-jr-champions-madenodao-noritokorekara)  
 【B-4】国内東西リージョンでウォームスタンバイのDR設計をした話  
 【B-5】【MSP認定取得奮闘記】AWS Security HubとAWS Organizationsで最強のセキュリティを設定している話  
 【B-6】[地方在住フルリモートワークエンジニアのリアル〜ジモトで"活きる"エンジニアライフ〜](https://speakerdeck.com/wkm2/di-fang-zai-zhu-hururimotowakuensinianoriaru-simotote-huo-kiru-ensiniaraihu)  
