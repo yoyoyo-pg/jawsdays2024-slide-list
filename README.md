@@ -26,11 +26,11 @@
 ### B
 
 【B-1】JAWS支部 re:Surgence ～リブート支部代表たちによるパネルディスカッション～  
-【B-3】Japan AWS Jr.Championsまでの道のりとこれから  
+【B-3】[Japan AWS Jr.Championsまでの道のりとこれから](https://speakerdeck.com/shawnmuramatsu/japan-aws-jr-champions-madenodao-noritokorekara)  
 【B-4】国内東西リージョンでウォームスタンバイのDR設計をした話  
 【B-5】【MSP認定取得奮闘記】AWS Security HubとAWS Organizationsで最強のセキュリティを設定している話  
 【B-6】[地方在住フルリモートワークエンジニアのリアル〜ジモトで"活きる"エンジニアライフ〜](https://speakerdeck.com/wkm2/di-fang-zai-zhu-hururimotowakuensinianoriaru-simotote-huo-kiru-ensiniaraihu)  
-【B-7】長岡花火公式アプリについて〜地元新潟県が誇る花火大会のアプリを作りました〜  
+【B-7】[長岡花火公式アプリについて〜地元新潟県が誇る花火大会のアプリを作りました〜](https://speakerdeck.com/atsushiizu/jaws-days-2024-chang-gang-hua-huo-gong-shi-apurinituite)  
 【B-8】[クラウドネイティブなデータ連携の最新動向:AWSサービスアップデートで何が変わった？](https://speakerdeck.com/hayaok3/latest-trends-in-cloud-native-data-integration)  
 【B-9】地方Tech創生全国ツアー 〜池袋Summit 〜  
 【B-11】恒例！ソリューションアーキテクト怒涛のLT  
