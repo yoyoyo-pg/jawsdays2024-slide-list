@@ -46,7 +46,7 @@
 [JAWS DAYS 2024でIaCについていろんな方達と語り合ってきました](https://zenn.dev/rrrraaaaa6/articles/8afc524c478fda)  
 [JAWS DAYS 2024「 ぼくのかんがえたさいきょうのAWSへのリソースデプロイ」にパネリストとして参加してきました#jawsdays2024 #jawsug #jawsdays2024_c](https://dev.classmethod.jp/articles/jaws-days-2024-boku-saikyo-aws-deploy/)  
 【C-3】AWSセキュリティ運用に頭を悩ませている方必見！ 運用をお任せできる「CloudFastener」あります！  
-【C-4】実録！NRIネットコム技術広報のあゆみ 立志編 ～立ち上げから周回軌道に乗るまで～  
+【C-4】[実録！NRIネットコム技術広報のあゆみ 立志編 ～立ち上げから周回軌道に乗るまで～](https://speakerdeck.com/nrinetcom/shi-lu-nrinetutokomuji-shu-guang-bao-noayumili-zhi-bian-li-tishang-gekarazhou-hui-gui-dao-nicheng-rumade)  
 【C-5】[フルAWSのマルチテナントSaaS生成AIアプリ「かぐたん」開発秘話](https://www.docswell.com/s/s3kzk/ZJLMVQ-jawsdays2024_c-5_kagutan)  
 【C-6】次世代への種を蒔こう  
 【C-8】MLOpsの旅:AWS IoTとSageMakerでリアルタイム検出に挑む コンサルタントに聞く！ AWS Security の守り方とセキュリティテストの実例  
