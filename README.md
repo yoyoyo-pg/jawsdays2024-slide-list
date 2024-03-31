@@ -9,7 +9,7 @@
 ### A
 
 【A-1】[なぜAWS向けのFrameworkに携わり続けるのか？ ～クラウド時代のOSS活動～](https://speakerdeck.com/watany/developing-oss-for-aws)  
-【A-2】ヘプタゴン、2023年AIハンズオン開催の軌跡 〜やっぱり地方コミュニティっていいものですね〜  
+【A-2】[ヘプタゴン、2023年AIハンズオン開催の軌跡 〜やっぱり地方コミュニティっていいものですね〜](https://www.docswell.com/s/takagerbera/5GXDLD-jaws-days-2024)  
 【A-3】[サービスクォータ、ちゃんと監視してますか？](https://speakerdeck.com/iwamot/quota-monitor-for-aws-quickstart)  
 【A-4】[人材育成専門企業の内製開発の現場から](https://www.docswell.com/s/yamamugi/524P64-jawsdays2024-a4-trainocate)  
 【A-5】AWSもITもなんも分からんから始まる成長戦略  
@@ -27,12 +27,12 @@
 
 【B-1】JAWS支部 re:Surgence ～リブート支部代表たちによるパネルディスカッション～  
 【B-3】[Japan AWS Jr.Championsまでの道のりとこれから](https://speakerdeck.com/shawnmuramatsu/japan-aws-jr-champions-madenodao-noritokorekara)  
-【B-4】国内東西リージョンでウォームスタンバイのDR設計をした話  
-【B-5】【MSP認定取得奮闘記】AWS Security HubとAWS Organizationsで最強のセキュリティを設定している話  
+【B-4】[国内東西リージョンでウォームスタンバイのDR設計をした話](https://speakerdeck.com/goeshin/guo-nei-dong-riziyondeuomusutanbainodrshe-ji-wositahua)  
+【B-5】[【MSP認定取得奮闘記】AWS Security HubとAWS Organizationsで最強のセキュリティを設定している話](https://speakerdeck.com/oshima0306/jaws-days2024-b-5-aws-configtoaws-organizationswoshi-tutesekiyuriteiwoqiang-hua-siyou)  
 【B-6】[地方在住フルリモートワークエンジニアのリアル〜ジモトで"活きる"エンジニアライフ〜](https://speakerdeck.com/wkm2/di-fang-zai-zhu-hururimotowakuensinianoriaru-simotote-huo-kiru-ensiniaraihu)  
 【B-7】[長岡花火公式アプリについて〜地元新潟県が誇る花火大会のアプリを作りました〜](https://speakerdeck.com/atsushiizu/jaws-days-2024-chang-gang-hua-huo-gong-shi-apurinituite)  
 【B-8】[クラウドネイティブなデータ連携の最新動向:AWSサービスアップデートで何が変わった？](https://speakerdeck.com/hayaok3/latest-trends-in-cloud-native-data-integration)  
-【B-9】地方Tech創生全国ツアー 〜池袋Summit 〜  
+【B-9】[地方Tech創生全国ツアー 〜池袋Summit 〜](https://speakerdeck.com/takuyay0ne/20240302-jawsdays2024-b-9)  
 【B-11】恒例！ソリューションアーキテクト怒涛のLT  
 
 [開発者体験を変えるInfrastructure as Codeの新機能 6選！](https://speakerdeck.com/konokenj/iac-updates-2024-03-jaws-days)  
@@ -50,7 +50,7 @@
 【C-5】[フルAWSのマルチテナントSaaS生成AIアプリ「かぐたん」開発秘話](https://www.docswell.com/s/s3kzk/ZJLMVQ-jawsdays2024_c-5_kagutan)  
 【C-6】次世代への種を蒔こう  
 【C-8】MLOpsの旅:AWS IoTとSageMakerでリアルタイム検出に挑む コンサルタントに聞く！ AWS Security の守り方とセキュリティテストの実例  
-【C-9】あなたのアイディアがコミュニティイベントで採用！？ JAWS PANKRATION 2024 Live Architecting  
+【C-9】[あなたのアイディアがコミュニティイベントで採用！？ JAWS PANKRATION 2024 Live Architecting](https://speakerdeck.com/matsuihidetoshi/jaws-days-2024-c-9)  
 【C-11】子育てエンジニアパネルディスカッション ～コーディングとおむつ替えの狭間で～  
 
 ### D
