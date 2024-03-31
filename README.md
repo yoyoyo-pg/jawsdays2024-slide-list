@@ -49,7 +49,7 @@
 【C-4】[実録！NRIネットコム技術広報のあゆみ 立志編 ～立ち上げから周回軌道に乗るまで～](https://speakerdeck.com/nrinetcom/shi-lu-nrinetutokomuji-shu-guang-bao-noayumili-zhi-bian-li-tishang-gekarazhou-hui-gui-dao-nicheng-rumade)  
 【C-5】[フルAWSのマルチテナントSaaS生成AIアプリ「かぐたん」開発秘話](https://www.docswell.com/s/s3kzk/ZJLMVQ-jawsdays2024_c-5_kagutan)  
 【C-6】次世代への種を蒔こう  
-【C-8】MLOpsの旅:AWS IoTとSageMakerでリアルタイム検出に挑む コンサルタントに聞く！ AWS Security の守り方とセキュリティテストの実例  
+【C-8】[MLOpsの旅:AWS IoTとSageMakerでリアルタイム検出に挑む コンサルタントに聞く！ AWS Security の守り方とセキュリティテストの実例](https://speakerdeck.com/ykimura/jaws-days-2024-mlopsnolu-aws-iottosagemakerderiarutaimujian-chu-nitiao-mu)  
 【C-9】[あなたのアイディアがコミュニティイベントで採用！？ JAWS PANKRATION 2024 Live Architecting](https://speakerdeck.com/matsuihidetoshi/jaws-days-2024-c-9)  
 【C-11】子育てエンジニアパネルディスカッション ～コーディングとおむつ替えの狭間で～  
 
@@ -58,10 +58,10 @@
 【D-1】[チーム対抗提案コンペ 〜仮想RFPに提案してみよう！〜](https://speakerdeck.com/shinyayamada/ben-fan-timudui-kang-ti-an-konhe-jia-xiang-rfp)  
 [JAWS DAYS 2024 でチーム対抗提案コンペに参加してみた話](https://blog.kazzpapa3.com/blog/2024/03/03/jaws-days-2024/)  
 [JAWS DAYS 2024 セッション D-1 Team-B 提案資料](https://speakerdeck.com/kazzpapa3/jaws-days-2024-setusiyon-d-1-team-b-ti-an-zi-liao)
-【D-3】Amazon EMR でグローバル規模の金融データを扱う分散処理システムを構築した話  
-【D-4】みんなこのセッション聞かないで！ ここだけでしか言えないAWSやらかし大激論  
+【D-3】[Amazon EMR でグローバル規模の金融データを扱う分散処理システムを構築した話](https://www.docswell.com/s/Simplex/KLLDV9-simplex_tanaka01)  
+【D-4】[みんなこのセッション聞かないで！ ここだけでしか言えないAWSやらかし大激論](https://speakerdeck.com/nagasaki/jaws-days-2024-minnakonosetusiyonwen-kanaide-kokodakedesikayan-enaiawsyarakasida-ji-lun)  
 【D-5】15分でECS on Fargateのオブザーバビリティは実現できるのか  
-【D-6】クラウド黎明期、いかにしてJAWSは始まったのか ～熱い歴史をコミュニティ史として語り継ぐ  
+【D-6】[クラウド黎明期、いかにしてJAWSは始まったのか ～熱い歴史をコミュニティ史として語り継ぐ](https://speakerdeck.com/toshi_atsumi/kuraudoli-ming-qi-ikanisitejawshashi-matutanoka-re-ili-shi-wokomiyuniteishi-tositeyu-riji-gu)  
 【D-8】[コンサルタントに聞く！ AWS Security の守り方とセキュリティテストの実例](https://speakerdeck.com/shinichirokawano/jaws-days-2024-track-d-supporter-session-how-to-test-aws-environment)  
 【D-9】AWS LLM 開発支援プログラム：開発者から学ぶ、LLM開発の最前線  
 【D-11】[予知保全はできるのか？Amazon Monitronによるガス火力発電所の機器監視](https://speakerdeck.com/kgx/jaws-days-2024-yu-zhi-bao-quan-hatekirunoka-amazon-monitronniyorukasuhuo-li-fa-dian-suo-noji-qi-jian-shi)  
@@ -73,13 +73,13 @@
 【E-1】[CIer・SIer集まれ！！ クライアントワークな私たちとAWSの良い関係を考えよう！](https://www.docswell.com/s/8916250/538WVM-2024-03-04-190005#p1)  
 [#JAWSDAYS2024 E-1 [P] CIer・SIer集まれ！！～クライアントワークな私たちとAWSの良い関係を考えよう！〜でモデレータ登壇したふりかえり](https://note.com/beajourneyman/n/n1ac5fe80b06e)  
 [#JAWSDAYS2024 E-1 CIer・SIer集まれ！！～クライアントワークな私たちとAWSの良い関係を考えよう！〜セッションオーナー𝕏ポストまとめ](https://togetter.com/li/2327985)  
-【E-3】ランチにまつわるちょっといい話  
-【E-4】全方位でのAWSコスト管理：最適化、削減、そしてガバナンス  
-【E-5】エンジニアブログ「TechHarmony」注目記事のご紹介  
+【E-3】[ランチにまつわるちょっといい話](https://www.slideshare.net/slideshow/jaws-days-2024-e3/266760980)  
+【E-4】[全方位でのAWSコスト管理：最適化、削減、そしてガバナンス](https://www.qes.co.jp/product/jaws_days_2024.html)  
+【E-5】[エンジニアブログ「TechHarmony」注目記事のご紹介](https://blog.usize-tech.com/sdm_downloads/introduce-techharmony-articles/)  
 【E-6】[生成AIで社内文書検索！ Bedrockの新機能でRAGアプリを簡単に作ってみよう](https://qiita.com/minorun365/items/24dfb0ea3afde6ed0a56)  
 【E-8】Believe In Serverless 〜真のサーバレスを目指して〜  
 【E-9】[海外イベントのためのコミュニケーションワークショップ ーPollyは友達ー](https://speakerdeck.com/matshogo/jawsdays2024-e-8-hai-wai-ibentonotamenokomiyunikesiyonwakusiyotupu)  
-【E-11】Serverlessを高速化しよう！試して感じるパフォーマンスチューニング  
+【E-11】[Serverlessを高速化しよう！試して感じるパフォーマンスチューニング](https://docs.google.com/presentation/d/1wi749_8FHAxn08ChA7qcuExm85eNN_SZ5WOqNpSAeGI/edit#slide=id.g2bea8c50909_1_41)  
 
 #### WS
 
